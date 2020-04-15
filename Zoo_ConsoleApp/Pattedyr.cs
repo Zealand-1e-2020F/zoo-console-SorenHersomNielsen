@@ -4,7 +4,12 @@ using System.Text;
 
 namespace Zoo_ConsoleApp
 {
-    class Pattedyr
+    class Pattedyr:Dyr
     {
+        public int pattedyr { get; set; }
+        public Pattedyr()
+        {
+
+        }
     }
 }

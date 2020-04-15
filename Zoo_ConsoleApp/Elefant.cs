@@ -4,14 +4,12 @@ using System.Text;
 
 namespace Zoo_ConsoleApp
 {
-    class Fisk:Dyr
+    class Elefant
     {
-        public int fisk { get; set; }
-
-        public Fisk()
+        public int elefant { get; set; }
+        public Elefant()
         {
 
         }
-
     }
 }
